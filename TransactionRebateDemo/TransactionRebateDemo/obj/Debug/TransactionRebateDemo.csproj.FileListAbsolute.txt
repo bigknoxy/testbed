@@ -1,0 +1,28 @@
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\TransactionRebateDemo.exe.config
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\TransactionRebateDemo.exe
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\TransactionRebateDemo.pdb
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\Demo.Model.dll
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\FileHelpers.dll
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\Demo.Model.pdb
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\FileHelpers.xml
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.csprojResolveAssemblyReference.cache
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.Form1.resources
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.Properties.Resources.resources
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.csproj.GenerateResource.Cache
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.exe
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.pdb
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\Demo.Service.dll
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\Demo.Service.pdb
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\NHibernate.dll
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\FluentNHibernate.dll
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\Iesi.Collections.dll
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\NHibernate.xml
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\FluentNHibernate.pdb
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\FluentNHibernate.xml
+D:\droptheboomRepo\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\Iesi.Collections.xml
+D:\temp\JoshKnoxCodeTest\Visual Studio Solution\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\TransactionRebateDemo.exe.config
+D:\temp\JoshKnoxCodeTest\Visual Studio Solution\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.exe
+D:\temp\JoshKnoxCodeTest\Visual Studio Solution\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.pdb
+C:\Users\knoxj\Source\Repos\testbed\TransactionRebateDemo\TransactionRebateDemo\bin\Debug\TransactionRebateDemo.exe.config
+C:\Users\knoxj\Source\Repos\testbed\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.exe
+C:\Users\knoxj\Source\Repos\testbed\TransactionRebateDemo\TransactionRebateDemo\obj\Debug\TransactionRebateDemo.pdb

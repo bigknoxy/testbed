@@ -1,0 +1,7 @@
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Model\bin\Debug\Demo.Model.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Model\bin\Debug\Demo.Model.pdb
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Model\bin\Debug\FileHelpers.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Model\bin\Debug\FileHelpers.xml
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Model\obj\Debug\Demo.Model.csprojResolveAssemblyReference.cache
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Model\obj\Debug\Demo.Model.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Model\obj\Debug\Demo.Model.pdb

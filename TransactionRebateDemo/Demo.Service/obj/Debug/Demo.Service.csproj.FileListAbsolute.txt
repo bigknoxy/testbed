@@ -1,0 +1,16 @@
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\Demo.Service.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\Demo.Service.pdb
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\Demo.Model.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\FileHelpers.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\Demo.Model.pdb
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\FileHelpers.xml
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\obj\Debug\Demo.Service.csprojResolveAssemblyReference.cache
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\obj\Debug\Demo.Service.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\obj\Debug\Demo.Service.pdb
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\FluentNHibernate.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\Iesi.Collections.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\NHibernate.dll
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\FluentNHibernate.pdb
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\FluentNHibernate.xml
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\Iesi.Collections.xml
+D:\droptheboomRepo\TransactionRebateDemo\Demo.Service\bin\Debug\NHibernate.xml
